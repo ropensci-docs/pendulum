@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6350bb91b885c1e92a579d570dbb98162492cc31",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-01-19 18:42:08",
+    "files": 1,
+    "merge": false,
+    "message": "fixes to gh actions workflow\n"
+  },
+  "remote": "https://github.com/ropensci/pendulum",
+  "pkg": "pendulum"
+}

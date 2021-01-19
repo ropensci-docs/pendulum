@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/reference/Clock.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/reference/clock_mock.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/reference/now.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/reference/pendulum-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/reference/sys_date.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/reference/sys_time.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/articles/pendulum.html</loc>
+  </url>
+</urlset>
